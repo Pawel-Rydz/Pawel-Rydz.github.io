@@ -1,3 +1,5 @@
-theme: midnight
-title: Pawel-Rydz homepage
-description: WDI page
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
